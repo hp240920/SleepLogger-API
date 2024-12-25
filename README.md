@@ -55,3 +55,7 @@ The Sleep Log Service is a backend application designed to help users log and ma
 - **Hibernate/JPA**: ORM for database interactions.
 - **Gradle**: Build and dependency management tool.
 - **JUnit & Mockito**: For testing.
+
+## Additional Files
+- **Postman Collection:** A `SleepLoggerAPI_Postman_Collection.json` file is included to test all endpoints easily. This collection contains pre-configured requests for all APIs.
+- **Public Repository Reference:** The project includes references to a [public repository and the pull requests](https://github.com/hp240920/SleepLogger-API/pull/1) created during development. This showcases the incremental development process and adherence to production-level coding standards.
