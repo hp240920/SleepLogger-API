@@ -6,3 +6,6 @@
 
 # Build directories
 build/
+
+# IntelliJ
+.idea/
