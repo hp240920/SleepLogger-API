@@ -1,6 +1,5 @@
 package com.noom.interview.fullstack.sleep.entity
 
-import com.fasterxml.jackson.annotation.JsonIgnore
 import javax.persistence.*
 import java.util.*
 

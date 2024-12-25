@@ -1,7 +1,6 @@
 package com.noom.interview.fullstack.sleep.repository
 
 import com.noom.interview.fullstack.sleep.entity.SleepLog
-import com.noom.interview.fullstack.sleep.entity.User
 import org.springframework.data.jpa.repository.JpaRepository
 import java.time.LocalDate
 import java.util.*
